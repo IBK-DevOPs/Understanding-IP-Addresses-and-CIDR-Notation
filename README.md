@@ -1,6 +1,5 @@
 # Understanding-IP-Addresses-and-CIDR-Notation
 
-# Understanding IP Addresses and CIDR Notation
 
 ### This topic is going to give us clear understanding of IP addresses and CIDR [Classless inter-Domain Routing] 
 ## Whether as a network administrator, IT professional, or simple interest in network concepts
