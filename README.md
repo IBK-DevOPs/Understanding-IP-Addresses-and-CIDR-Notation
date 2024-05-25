@@ -31,7 +31,9 @@
 ### This addressing method divides the IP address into five separate classes based on four address bits.
 ### Here, classes A, B, C offers addresses for networks of three distinct network sizes. Class D is only used for multicast, and class E reserved exclusively for experimental purposes.
 
-![alt text](<image/classful address.png>)
+
+
+![alt text](<image/IP address class.png>)
 
 
 
